@@ -84,4 +84,4 @@ client.on("message", (message) => {
       });
   }
 });
-client.login("NzU1NDU2NzEyMTA2MDQ5NTQ2.X2Dj4w.X_NczpGNzA3fqWOsq9qtNisMa2I");
+client.login("<Your_Token_Here>");
